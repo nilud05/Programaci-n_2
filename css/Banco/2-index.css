@@ -1,0 +1,26 @@
+.sign-up {
+    margin-top: -35%;
+    width: 30%;
+}
+
+.sign-up button {
+    background-color: #b2896e;
+}
+
+.col-md-3 {
+    margin-top: -60px;
+    margin-bottom: 60px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    margin-top: 3%;
+}
+
+.medio {
+    margin-top: -23%;
+}
